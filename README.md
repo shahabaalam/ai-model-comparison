@@ -17,7 +17,7 @@ A Python simulation where a ball bounces inside a rotating hexagon. The ball is 
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/ai-model-comparison.git
+   git clone https://github.com/shahabaalam/ai-model-comparison.git
    cd ai-model-comparison
    ```
 2. **Install Dependencies**
@@ -26,7 +26,7 @@ A Python simulation where a ball bounces inside a rotating hexagon. The ball is 
    ```
 3. **Run the Simulation**
    ```bash
-   python bouncing_ball.py
+   python app_name.py
    ```
 
 ---
