@@ -56,4 +56,5 @@ A Python simulation where a ball bounces inside a rotating hexagon. The ball is 
 
 ## Preview
 
-🎥 **Watch the Demo:** [Click here to view `demo.mp4`](demo.mp4)
+🎥 **Watch the Demo:**  
+[![Bouncing Ball Simulation](https://img.youtube.com/vi/NtV5PYLS7oU/0.jpg)](https://youtube.com/shorts/NtV5PYLS7oU)
