@@ -31,26 +31,11 @@ A Python simulation where a ball bounces inside a rotating hexagon. The ball is 
 
 ---
 
-## **Controls**
-
-- `Esc` - Exit the simulation.
-- `R` - Restart the ball's position.
-
----
-
 ## **How It Works**
 
 - The **hexagon rotates** at a constant speed.
 - The **ball moves under gravity** and **bounces off the walls** realistically.
 - **Friction reduces velocity** over time, making the simulation feel natural.
-
----
-
-## **Technologies Used**
-
-- **Python**
-- **Pygame** - for rendering.
-- **NumPy** - for vector calculations.
 
 ---
 
